@@ -39,16 +39,14 @@
 
 ---
 
-## Pilot Phase Checkpoints (Months 1-6)
-
-| Month | Target Closes | Focus | Decision Point |
-|-------|---|---|---|
-| **Month 1** | 60 | Launch all 5 products, validate messaging | Email open rate ≥15%? |
-| **Month 2** | 65 | Optimize per product, A/B testing | Reply rate ≥8%? |
-| **Month 3** | 70 | Segment analysis, kill underperformers | 25+ closes hit? |
-| **Month 4** | 75 | Scale up winners, test new angles | On track for 350+? |
-| **Month 5** | 80 | Full optimization, dashboard live | Revenue tracking correct? |
-| **Month 6** | 88 | Final prep for scale decision | Hit ≥350 closes? |
+| Month | Focus | Closes Target | Decision Point |
+|-------|-------|---|---|
+| **May (Pilot Start)** | Launch Mestloket only | 15 | Email open rate ≥18%? |
+| **June** | Optimize messaging + A/B test | 30+ cumulative | Reply rate ≥8%? |
+| **July** | Scale outreach + segment winners | 90+ cumulative | On track for 350+? |
+| **August** | Full optimization | 120+ cumulative | Hit ≥350 closes? |
+| **Sep (Phase 2 Start)** | Launch 4 remaining products | 200+ new closes | Ready to scale? |
+| **Oct-Nov** | Optimize all 5 products | 350+ total | Hit ≥438 target? |
 
 ---
 
